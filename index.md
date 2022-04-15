@@ -72,7 +72,7 @@ Contact: hxm19 AT mails D0T tsinghua D0T edu D0T cn
 
 - **Semi-supervised Relation Extraction via Incremental Meta Self-Training**
 
-  **Xuming Hu**, Fukun Ma, Chenyao Liu, Chenwei Zhang, Lijie Wen, Philip S Yu
+  **Xuming Hu**, Chenwei Zhang, Fukun Ma, Chenyao Liu, Lijie Wen, Philip S Yu
   
   **EMNLP 2021 (Findings)**
   
