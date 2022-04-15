@@ -13,7 +13,7 @@ My research interests lie in the fields of natural language processing and deep 
 
 Contact: hxm19 AT mails D0T tsinghua D0T edu D0T cn
 
-[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o)
+[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) [ResearchGate](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o)
 
 **Feel free to contact me if your research lies within these or related areas!**
 
@@ -42,7 +42,7 @@ Contact: hxm19 AT mails D0T tsinghua D0T edu D0T cn
   
   **ICASSP 2022**
 
-  [[Paper]](https://arxiv.org/abs/2201.10927)
+  [[Paper]](https://arxiv.org/abs/2201.10927) [[Code]](https://github.com/THU-BPM/PairSCL)
 
 - **Inferring Commonsense Explanations as Prompts for Future Event Generation**
 
@@ -90,7 +90,7 @@ Contact: hxm19 AT mails D0T tsinghua D0T edu D0T cn
   
 - **SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction**
 
-  **Xuming Hu**, Lijie Wen, Yusong Xu, Chenwei Zhang, Philip S Yu
+  **Xuming Hu**, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S Yu
   
   **EMNLP 2020**
   
