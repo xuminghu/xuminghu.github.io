@@ -13,7 +13,7 @@ My research interests lie in the fields of natural language processing and deep 
 
 Contact: hxm19 AT mails DoT tsinghua DoT edu DoT cn
 
-[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) [[ResearchGate]](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o)
+[[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) [[ResearchGate]](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o) [[Semantic Scholar]](https://www.semanticscholar.org/author/2109906988)
 
 **Feel free to contact me if your research lies within these or related areas!**
 
@@ -50,7 +50,7 @@ Contact: hxm19 AT mails DoT tsinghua DoT edu DoT cn
   
   **SIGIR 2022**
 
-  [[Paper]](https://arxiv.org/abs/2201.07099)
+  [[Paper]](https://arxiv.org/abs/2201.07099) [[Code]](https://github.com/THU-BPM/CoEP)
 
 - **Towards Natural Language Interfaces for Data Visualization: A Survey**
 
