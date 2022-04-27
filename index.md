@@ -11,7 +11,7 @@ My research interests lie in the fields of natural language processing and deep 
 - Low-resource, open-world information extraction and entity-related information extraction
 - Automated fact-checking (especially fact-checking by retrieving real-world evidence)
 
-Contact: hxm19 AT mails DoT tsinghua DoT edu DoT cn
+Contact: hxm19@mails.tsinghua.edu.cn
 
 [[Google Scholar]](https://scholar.google.com/citations?hl=zh-CN&user=dbBKbXoAAAAJ) [[ResearchGate]](https://www.researchgate.net/profile/Hu-Xuming?ev=hdr_xprf&_sg=cqatJ7AhrzJeV9CM-7xF6hVAhV-vpfPIb6_E2vExKHQUSVTc0L9ry819hm3_Qt1ccooD97fBdpAYyOHyqYqejy_o) [[Semantic Scholar]](https://www.semanticscholar.org/author/2109906988)
 
