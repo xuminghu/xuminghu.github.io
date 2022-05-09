@@ -30,11 +30,15 @@ Contact: hxm19@mails.tsinghua.edu.cn
   
   **NAACL 2022**
 
+  [[Paper]](https://xuminghu.github.io) [[Code]](https://xuminghu.github.io)
+
 - **HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction**
 
   Shuliang Liu<sup>*</sup>, **Xuming Hu<sup>*</sup>**, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu
   
   **NAACL 2022**
+
+  [[Paper]](https://arxiv.org/abs/2205.02225) [[Code]](https://github.com/THU-BPM/HiURE)
 
 - **Pair-Level Supervised Contrastive Learning for Natural Language Inference**
 
@@ -64,7 +68,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
   
 - **Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction**
 
-  **Xuming Hu**, Chenwei Zhang, Yawen Yang, Xiaohe Li, Li Lin, Lijie Wen, Philip S Yu
+  **Xuming Hu**, Chenwei Zhang, Yawen Yang, Xiaohe Li, Li Lin, Lijie Wen, Philip S. Yu
   
   **EMNLP 2021**
   
@@ -72,7 +76,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
 - **Semi-supervised Relation Extraction via Incremental Meta Self-Training**
 
-  **Xuming Hu**, Chenwei Zhang, Fukun Ma, Chenyao Liu, Lijie Wen, Philip S Yu
+  **Xuming Hu**, Chenwei Zhang, Fukun Ma, Chenyao Liu, Lijie Wen, Philip S. Yu
   
   **EMNLP 2021 (Findings)**
   
@@ -90,7 +94,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
   
 - **SelfORE: Self-supervised Relational Feature Learning for Open Relation Extraction**
 
-  **Xuming Hu**, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S Yu
+  **Xuming Hu**, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S. Yu
   
   **EMNLP 2020**
   
