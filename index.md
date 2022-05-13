@@ -28,7 +28,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu<sup>*</sup>**, Zhijiang Guo<sup>*</sup>, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022 (oral)**
+  **NAACL 2022**, *Long paper (Oral)*
 
   [[Paper]](https://xuminghu.github.io) [[Code]](https://xuminghu.github.io)
 
@@ -36,7 +36,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Shuliang Liu<sup>*</sup>, **Xuming Hu<sup>*</sup>**, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022 (oral)**
+  **NAACL 2022 (oral)**, *Long paper (Oral)*
 
   [[Paper]](https://arxiv.org/abs/2205.02225) [[Code]](https://github.com/THU-BPM/HiURE)
 
@@ -96,7 +96,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu**, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S. Yu
   
-  **EMNLP 2020 (oral)**
+  **EMNLP 2020**, *Long paper (Oral)*
   
   [[Paper]](https://arxiv.org/abs/2004.02438) [[Code]](https://github.com/THU-BPM/SelfORE)
 
