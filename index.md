@@ -36,7 +36,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Shuliang Liu<sup>*</sup>, **Xuming Hu<sup>*</sup>**, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022 (oral)**, *Long paper (Oral)*
+  **NAACL 2022**, *Long paper (Oral)*
 
   [[Paper]](https://arxiv.org/abs/2205.02225) [[Code]](https://github.com/THU-BPM/HiURE)
 
@@ -52,7 +52,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Li Lin, Yixin Cao, Lifu Huang, Shu’ang Li, **Xuming Hu**, Lijie Wen, Jianmin Wang
   
-  **SIGIR 2022**
+  **SIGIR 2022**, *Full paper*
 
   [[Paper]](https://arxiv.org/abs/2201.07099) [[Code]](https://github.com/THU-BPM/CoEP)
 
@@ -70,7 +70,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu**, Chenwei Zhang, Yawen Yang, Xiaohe Li, Li Lin, Lijie Wen, Philip S. Yu
   
-  **EMNLP 2021**
+  **EMNLP 2021**, *Long paper*
   
   [[Paper]](https://arxiv.org/abs/2109.06415) [[Code]](https://github.com/THU-BPM/GradLRE) [[Slides]](./docs/GradLRE.pdf)
 
@@ -78,7 +78,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu**, Chenwei Zhang, Fukun Ma, Chenyao Liu, Lijie Wen, Philip S. Yu
   
-  **EMNLP 2021 (Findings)**
+  **EMNLP 2021 (Findings)**, *Long paper*
   
   [[Paper]](https://arxiv.org/abs/2010.16410) [[Code]](https://github.com/THU-BPM/MetaSRE) [[Slides]](./docs/MetaSRE.pdf)
   
