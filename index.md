@@ -28,7 +28,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu<sup>*</sup>**, Zhijiang Guo<sup>*</sup>, Guanyu Wu, Aiwei Liu, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022**
+  **NAACL 2022 (oral)**
 
   [[Paper]](https://xuminghu.github.io) [[Code]](https://xuminghu.github.io)
 
@@ -36,13 +36,13 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Shuliang Liu<sup>*</sup>, **Xuming Hu<sup>*</sup>**, Chenwei Zhang, Shu’ang Li, Lijie Wen, Philip S. Yu
   
-  **NAACL 2022**
+  **NAACL 2022 (oral)**
 
   [[Paper]](https://arxiv.org/abs/2205.02225) [[Code]](https://github.com/THU-BPM/HiURE)
 
 - **Pair-Level Supervised Contrastive Learning for Natural Language Inference**
 
-  Shu’ang Li, **Xuming Hu**, Lin Li, Lijie Wen
+  Shu’ang Li, **Xuming Hu**, Li Lin, Lijie Wen
   
   **ICASSP 2022**
 
@@ -96,7 +96,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   **Xuming Hu**, Chenwei Zhang, Yusong Xu, Lijie Wen, Philip S. Yu
   
-  **EMNLP 2020**
+  **EMNLP 2020 (oral)**
   
   [[Paper]](https://arxiv.org/abs/2004.02438) [[Code]](https://github.com/THU-BPM/SelfORE)
 
