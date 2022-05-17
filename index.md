@@ -4,7 +4,7 @@ layout: default
 
 
 ## About
-Hi! My name is Xuming Hu (胡旭明). I am a third-year Ph.D. student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Philip S. Yu](https://www.cs.uic.edu/PSYu/) and Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm).
+Hi! My name is Xuming Hu (胡旭明). I am a third-year Ph.D. student at the [School of Software](https://www.thss.tsinghua.edu.cn/) in [Tsinghua University](https://www.tsinghua.edu.cn/), where I am advised by Prof. [Philip S. Yu](https://www.cs.uic.edu/PSYu/) and also co-advised by Prof. [Lijie Wen](https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm).
 
 My research interests lie in the fields of natural language processing and deep learning. In particular, I am interested in mining structured information from heterogeneous information sources and focus on:
 
