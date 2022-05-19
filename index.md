@@ -44,7 +44,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Aiwei Liu, **Xuming Hu**, Li Lin, Lijie Wen
   
-  **SIGKDD 2022**
+  **SIGKDD 2022**, *Full paper*
 
   [[Paper]](https://xuminghu.github.io) [[Code]](https://xuminghu.github.io)
 
@@ -52,7 +52,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   Shu’ang Li, **Xuming Hu**, Li Lin, Lijie Wen
   
-  **ICASSP 2022**
+  **ICASSP 2022**, *Full paper*
 
   [[Paper]](https://arxiv.org/abs/2201.10927) [[Code]](https://github.com/THU-BPM/PairSCL)
 
