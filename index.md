@@ -40,6 +40,14 @@ Contact: hxm19@mails.tsinghua.edu.cn
 
   [[Paper]](https://arxiv.org/abs/2205.02225) [[Code]](https://github.com/THU-BPM/HiURE)
 
+- **Semantic Enhanced Text-to-SQL Parsing via Iteratively Learning Schema Linking Graph**
+
+  Aiwei Liu, **Xuming Hu**, Li Lin, Lijie Wen
+  
+  **SIGKDD 2022**
+
+  [[Paper]](https://xuminghu.github.io) [[Code]](https://xuminghu.github.io)
+
 - **Pair-Level Supervised Contrastive Learning for Natural Language Inference**
 
   Shu’ang Li, **Xuming Hu**, Li Lin, Lijie Wen
