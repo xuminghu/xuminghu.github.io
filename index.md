@@ -30,7 +30,7 @@ Contact: hxm19@mails.tsinghua.edu.cn
   
   **NAACL 2022**, *Long paper (Oral)*
 
-  [[Paper]](https://xuminghu.github.io) [[Code]](https://github.com/THU-BPM/CHEF)
+  [[Paper]](http://arxiv.org/abs/2206.11863) [[Code & Data]](https://github.com/THU-BPM/CHEF) [[Slides]](./docs/CHEF.pdf)
 
 - **HiURE: Hierarchical Exemplar Contrastive Learning for Unsupervised Relation Extraction**
 
